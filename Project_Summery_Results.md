@@ -14,7 +14,7 @@ Analyze customers personality for for marketing programs.
 *Tableau:* Here
 
 # Data exploration
-To be able to answer the business question, I'll perform exploration data analysis. Most of this task will be explained in the notebook in which I will classify the customers of into different segments with the purpose of understanding their needs. The steps of the analysis are below  
+To be able to answer the business question, I'll perform exploration data analysis. Most of this task will be explained in the [notebook](https://github.com/plnh/Customer_Personality_Analysis/blob/main/Customer%20Personality%20Analysis.ipynb) in which I will classify the customers of into different segments with the purpose of understanding their needs. The steps of the analysis are below  
 - 1. Analysis preparation
   - Understand data: The dataset is used to analyze customer personality. The dataset's feature an be found Here
   - Importing libraries: I used mainly numpy, pandas, and plotly
