@@ -23,7 +23,19 @@ To be able to answer the business question, I'll perform exploration data analys
   - Data Preparation: I create new features for the dataset in order to define the customer personalities
   - Data cleaning: I identify missing values and outliners. Then I'll make decision on how to handle them
 ## 2. Data Exploratory: this is the main step of the analysis
-  - Modeling clusters: in this step I'll organize the customers into clusters. I'll classify the customers by demographics segment. Then I'll analyzise by products to answer which customer segment tend to buy what.
+  **- Modeling clusters:**
+In this step I'll organize the customers into clusters. I'll classify the customers by demographics using 4 segments:
+- Stars: Old customers with high income and high spending nature.
+- High Potential: New customers with high income and high spending nature.
+- Need Attention: New customers with below-average income and low spending nature. 
+- Leaky Bucket: Old customers with below-average income and a low spending nature.
+
+Then I'll analyzise by products to answer which customer segment tend to buy what. Again I define 4 new segments according to the spending of customers on each product:
+- Non Buyer
+- Low Buyer
+- Frequent Buyer
+- Biggest Buyer
+
   - Clusters interpretation: in this step I'll export the dataset and visualize them using tableau. The visualization can be found Here
 # Results
 ## Findings:
