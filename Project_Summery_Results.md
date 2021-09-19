@@ -4,10 +4,15 @@ You are a junior data analyst working in the marketing analyst team for a ecomme
 # Business task
 ## Problem Statement
 Analyze customers personality for for marketing programs.
-Tools: Python for data cleaning and data modeling, Tableau for data visualization.
-Dataset: Here
-Python code : Here
-Tableau: Here
+
+*Tools:* Python for data cleaning and data modeling, Tableau for data visualization.
+
+*Dataset:* [Here](https://github.com/plnh/Customer_Personality_Analysis/tree/main/Data)
+
+*Python code:* [Here](https://github.com/plnh/Customer_Personality_Analysis/blob/main/Customer%20Personality%20Analysis.ipynb)
+
+*Tableau:* Here
+
 # Data exploration
 To be able to answer the business question, I'll perform exploration data analysis. Most of this task will be explained in the notebook in which I will classify the customers of into different segments with the purpose of understanding their needs. The steps of the analysis are below  
 - 1. Analysis preparation
