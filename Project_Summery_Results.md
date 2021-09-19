@@ -29,10 +29,10 @@ To be able to answer the business question, I'll perform exploration data analys
 ## Findings:
 **What I found from the general demoraphics segment:**
 
-- Majority of the customers who visit the site are  in their 35-65 years old and have atleast one univeristy degree. They also tend to be in a relationship and have atleast one child. 
+- Majority of the customers who visit the site are  in their 35-65 years old and have atleast one univeristy degree. They also tend to be in relationship and have atleast one child. 
 - Although clients without children do not contribute to the majority, they mostly have high income and high spending nature.
 - Customers with 1 child seems to have more income and spend more than the one with more than 1 child. 
-- Educations and Material status seem have no affect to income and spending nature.
+- Educations and Material status seem have no affect to income and spending nature as vast majority of customers are in relationship & post-graduated as mentioned above.
 
 **What i found from product segment:**
 
