@@ -1,8 +1,9 @@
 # Customer Personality Analysis
 ## Scenario
-You are a junior data analyst working in the marketing analyst team for a ecommerce company. 
-
-You're assigned to the 2 questions to answer: 1/ which customer segment is most likely to buy a particular product and 2/ Which product should we recommend to whom?  
+As a junior data analyst working in the marketing analyst team for a ecommerce company, you're assigned to the 2 questions to answer: 
+  - 1 which customer segment is most likely to buy a particular product and 
+  - 2 Which product should we recommend to whom?  
+![](https://github.com/plnh/Customer_Personality_Analysis/blob/main/people.gif)
 # Business task
 ## Problem Statement
 Analyze customers personality for for marketing programs.
@@ -13,7 +14,7 @@ Analyze customers personality for for marketing programs.
 
 *Python code:* [Here](https://github.com/plnh/Customer_Personality_Analysis/blob/main/Customer%20Personality%20Analysis.ipynb)
 
-*Tableau:* Here
+*Tableau:* [Here](https://public.tableau.com/views/CustomerPersonalityAnalysis/Dashboard3?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 # Data exploration
 To be able to answer the business question, I'll perform exploration data analysis. Most of this task will be explained in this [notebook](https://github.com/plnh/Customer_Personality_Analysis/blob/main/Customer%20Personality%20Analysis.ipynb) in which I will classify the customers of into different segments with the purpose of understanding their needs. The steps of the analysis are below 
@@ -36,7 +37,16 @@ Then I'll analyzise by products to answer which customer segment tend to buy wha
 - Frequent Buyer
 - Biggest Buyer
 
-**- Clusters interpretation:** in this step I'll export the dataset and visualize them using tableau. The visualization can be found Here
+**- Clusters interpretation:** in this step I'll export the dataset and visualize them using tableau. 
+
+The interactive visualization can be found [Here](https://public.tableau.com/views/CustomerPersonalityAnalysis/Dashboard3?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
+![](https://github.com/plnh/Customer_Personality_Analysis/blob/main/Tableau_Resource/Customer%20Demographics.png)
+
+![](https://github.com/plnh/Customer_Personality_Analysis/blob/main/Tableau_Resource/Customer%20Segment.png)
+
+![](https://github.com/plnh/Customer_Personality_Analysis/blob/main/Tableau_Resource/Customer%20behavior.png)
+
 # Results
 ## Findings:
 **What I found from the general demoraphics segment:**
@@ -47,6 +57,16 @@ Then I'll analyzise by products to answer which customer segment tend to buy wha
 - Educations and Material status seem have no affect to income and spending nature as vast majority of customers are in relationship & post-graduated as mentioned above.
 
 **What i found from product segment:**
+- Wine are the biggest contributor to sale, second by Meat
+- How long have a customers is out client do not affect their spending behavior. We could explain this by looking at loyalty program.
+- A customer seems to have similar spending behavior accross products. This suggest that customers tend to buy mutiple products from us.
 
-- 
 ## Recommendations
+- Most of the customers are in their 35-65s and high education. It would be beneficial to to tailor our marketing campaign around them.
+- We could also target consumers with no child as they have high income and spending behavior.
+- As wine and meat are the most popular products amongst all the groups, we could to offer a greater variety of these products or special deals in these categories.
+- It is neccessary to review loyalty program as it failed promote old customers. We can offer some free samples or coupons to active, long-time customers to promote loyal clients.
+- As customers tend to buy mutiple products from us, we could provide recomendations/ads of different products to them.
+
+## Next step
+Although I have answered the questions raised previously, there are other fields to look into using this dataset as this study hasn't considered Promotion data and Place data.  For futher study and analysis, we could further study the promotion results and how it affects each customer segments or more about how the location/shoping method affect customer behavior.
