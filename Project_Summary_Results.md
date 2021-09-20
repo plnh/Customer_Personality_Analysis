@@ -3,7 +3,7 @@
 As a junior data analyst working in the marketing analyst team for a ecommerce company, you're assigned to the 2 questions to answer: 
   - 1 which customer segment is most likely to buy a particular product and 
   - 2 Which product should we recommend to whom?  
-![](https://github.com/plnh/Customer_Personality_Analysis/blob/main/people.gif)
+![](https://github.com/plnh/Customer_Personality_Analysis/blob/main/PeskyDorking.gif)
 # Business task
 ## Problem Statement
 Analyze customers personality for for marketing programs.
