@@ -70,3 +70,5 @@ The interactive visualization can be found [Here](https://public.tableau.com/vie
 
 ## Next step
 Although I have answered the questions raised previously, there are other fields to look into using this dataset as this study hasn't considered Promotion data and Place data.  For futher study and analysis, we could further study the promotion results and how it affects each customer segments or more about how the location/shoping method affect customer behavior.
+
+![](https://github.com/plnh/Customer_Personality_Analysis/blob/main/potato.gif)
